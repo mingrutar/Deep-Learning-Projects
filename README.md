@@ -32,6 +32,8 @@ Build generative adversarial networks (GAN) to generate new images of digits and
 | show 5  Row of Training Progress | Show 10 Row of Training Progress |
 |  ![alt png](images/mnist_progress.png?raw=true) | ![alt png](images/celeb_progress.png?raw=true) |
 
+<sup>To *[GAN](#GAN)  [RNN](#TVSG)  [CNN](#IC)  [NN](#NN)*</sup>
+
 <a id='LT'></a>
 ### Language Translation
 
@@ -58,6 +60,7 @@ Prediction
   Word Ids:      [137, 310, 303, 272, 69, 309, 201, 115, 1]
   French Words: ['il', 'a', 'vu', 'un', 'vieux', 'camion', 'jaune', '.', '<EOS>']
 ```
+<sup>To *[GAN](#GAN)  [Seq2Seq](#LT)  [CNN](#IC)  [NN](#NN)*</sup>
 
 <a id='TVSG'></a>
 ### TV Script Generation
@@ -85,13 +88,16 @@ homer_simpson:(loud sotto him) / can do those funny about anyone to you...
 homer_simpson:(grim) you know, then we're into the grampa!
 lenny_leonard:, i'm
 ```
+<sup>To *[GAN](#GAN)  [Seq2Seq](#LT)  [RNN](#TVSG)  [NN](#NN)*</sup>
 
 <a id='IC'></a>
 ### Image Classification
  Coming soon...
  
+<sup>To *[GAN](#GAN) [Seq2Seq](#LT) [RNN](#TVSG) [NN](#NN)*</sup>
+
 <a id='NN'></a>
-### Neural Network
+### Neural Network 
 
 Build a neural network without using a deepp learning framework and use it to predict daily bike rental ridership. 
 Input is Bike Sharing Data, the following graph shows the hourly rent in 2011:
@@ -111,3 +117,5 @@ For learning rate of 0.1 trained 3500 epochs, the following graph showed the tra
 The following graph shows the prediction of model and the data:
 
 ![png](images/nn_predict.png)
+
+<sup>To *[GAN](#GAN)  [Seq2Seq](#LT)  [RNN](#TVSG)  [CNN](#IC)  [NN](#NN)*</sup>
