@@ -91,3 +91,19 @@ lenny_leonard:, i'm
 
 <a id='NN'></a>
 ### Neural Network
+
+Build a neural network without using a deepp learning framework and use it to predict daily bike rental ridership. 
+Input is Bike Sharing Data, the following graph shows the hourly rent in 2011: 
+![png](images/nn_input.png)
+
+##### The network is built with numpy. 
+* 1 hidden layer 
+* sigmoid activation function
+
+##### Training
+For learning rate of 0.1 trained 3500 epochs, the following graph showed the training and validation loss:
+![png](images/nn_loss.png)
+
+##### Test
+The following graph shows the prediction of model and the data:
+![png](images/nn_predict.png)
