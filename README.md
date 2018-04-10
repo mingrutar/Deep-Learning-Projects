@@ -88,7 +88,8 @@ lenny_leonard:, i'm
 
 <a id='IC'></a>
 ### Image Classification
-
+ Coming soon...
+ 
 <a id='NN'></a>
 ### Neural Network
 
