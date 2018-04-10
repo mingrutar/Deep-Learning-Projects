@@ -1,5 +1,5 @@
 # Deep Learning Projects for [Udacity Deep Learning ND](https://classroom.udacity.com/nanodegrees/nd101/syllabus/core-curriculum)
-Built Tensorflow based [Image Generator](#GAN) (GAN), [Language Translator](#LT) (Sequence-to-Sequence), [TV Script Generator](#TVSG) (RNN), [Image Classifier](#IC) (CNN), and a [Neural Network](#NN).
+Built Tensorflow based [Image Generator](#GAN) (GAN), [Language Translator](#LT) (Sequence-to-Sequence), [TV Script Generator](#TVSG) (RNN), [Image Classifier](#IC) (CNN), and a [Neural Network](#NN) without Tensorflow.
 
 <sub>*Udacity Deep Learning is an ongoing course. For academic integrity, the source code of my implementation are private. If you like to view the code, please let me know.*</sub>
 
@@ -97,7 +97,7 @@ lenny_leonard:, i'm
 <sup>To *[GAN](#GAN) [Seq2Seq](#LT) [RNN](#TVSG) [NN](#NN)*</sup>
 
 <a id='NN'></a>
-### Neural Network 
+### Neural Network, no Tensorflow  
 
 Build a neural network without using a deepp learning framework and use it to predict daily bike rental ridership. 
 Input is Bike Sharing Data, the following graph shows the hourly rent in 2011:
