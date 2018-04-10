@@ -1,5 +1,7 @@
 # Deep Learning Projects for [Udacity Deep Learning ND](https://classroom.udacity.com/nanodegrees/nd101/syllabus/core-curriculum)
-Built Tensorflow based [Image Generator](#GAN) (GAN), [Language Translator](#LT) (Sequence-to-Sequence), [TV Script Generator](#TVSG) (RNN), [Image Classifier](#IC) (CNN), and a [Neural Network](#NN)
+Built Tensorflow based [Image Generator](#GAN) (GAN), [Language Translator](#LT) (Sequence-to-Sequence), [TV Script Generator](#TVSG) (RNN), [Image Classifier](#IC) (CNN), and a [Neural Network](#NN).
+
+<sub>*Udacity Deep Learning is an ongoing course. For academic integrity, the source code of my implementation are private. If you like to view the code, please let me know.*</sub>
 
 <a id='GAN'></a>
 ### Image Generation
