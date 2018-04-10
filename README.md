@@ -8,6 +8,8 @@ Built Tensorflow based [Image Generator](#GAN) (GAN), [Language Translator](#LT)
 
 Build generative adversarial networks (GAN) to generate new images of digits and faces. In our GAN networks, we have a CNN (convolutional neural network) Discriminator and a tranpose CNN (CNNT) Generator. The project uses Tensorflow.  
 
+![](images/gan.png)
+
 ##### Input date are:
 
 | 60,000 MNIST Images      | 200,000 Celebration images  |
